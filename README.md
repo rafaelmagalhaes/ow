@@ -1,7 +1,5 @@
 ## Setup
 
-
-
 Project built in Nuxt 3
 
 Demo at [https://ow-eight.vercel.app/](https://ow-eight.vercel.app/)
@@ -15,6 +13,9 @@ Packages used:
    * Pinia
    * Vitest
 
+### prerequisites
+ 
+   * node 16.18 or higher
 
 Make sure to install the dependencies:
 
