@@ -1,6 +1,10 @@
 ## Setup
 
+
+
 Project built in Nuxt 3
+
+Demo at [https://ow-eight.vercel.app/](https://ow-eight.vercel.app/)
 
 rename `.env.example` to `.env` and fill in the values. A google maps javascript api key is required for the map to work.
 
@@ -9,6 +13,7 @@ Packages used:
    * VueGoogleMaps
    * VueUse
    * Pinia
+   * Vitest
 
 
 Make sure to install the dependencies:
