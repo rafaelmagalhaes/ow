@@ -1,5 +1,5 @@
 <template>
-  <div class="w-[50%]"><card-component :land-title="landTitle"></card-component></div>
+  <div class="w-[100%] lg:w-[50%]"><card-component :land-title="landTitle"></card-component></div>
 </template>
 <script lang="ts" setup>
 import { storeToRefs } from 'pinia';
